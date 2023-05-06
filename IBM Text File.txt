@@ -6,3 +6,5 @@ according to the user choice.
 
 IBM Cloud Pak for Data v3.0: IBM cloud pak for data has different versions and v3.0 intgrates data amd AI services for 
 large data. It is a cloud-native based platform. 
+
+Key Features are portwox, personetics, lightbend cloudflow.
