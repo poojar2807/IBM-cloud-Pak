@@ -1,0 +1,8 @@
+IBM CLOUD PAK FOR DATA v3.0
+Cloud pak for data analysis and it has built -in governance.Cloud Pak for data provides a platform for big data processing.
+
+IBM Cloud Pak for Data: provides an unified interface for all the data of the user, where he/she can govern it, modify it 
+according to the user choice.
+
+IBM Cloud Pak for Data v3.0: IBM cloud pak for data has different versions and v3.0 intgrates data amd AI services for 
+large data. It is a cloud-native based platform. 
